@@ -1,0 +1,155 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 13.56 
+tiers? <exists> 
+size  = 2
+item []: 
+    item [1]:
+        class = "TextTier"
+        name = "tones"
+        xmin = 0 
+        xmax = 13.56
+        points: size = 23
+        points [1]:
+            number = 0.71
+            mark = "L-L%"
+        points [2]:
+            number = 1.245
+            mark = "L*"
+        points [3]:
+            number = 1.635
+            mark = "L*"
+        points [4]:
+            number = 1.81
+            mark = "!H*"
+        points [5]:
+            number = 2.69
+            mark = "L-L%"
+        points [6]:
+            number = 3.76
+            mark = "L-L%"
+        points [7]:
+            number = 4.035
+            mark = "!H*"
+        points [8]:
+            number = 4.81
+            mark = "L-L%"
+        points [9]:
+            number = 0
+            mark = "L*"
+        points [10]:
+            number = 5.72
+            mark = "L-L%"
+        points [11]:
+            number = 6.94
+            mark = "L-L%"
+        points [12]:
+            number = 7.21
+            mark = "!H*"
+        points [13]:
+            number = 7.615
+            mark = "L*"
+        points [14]:
+            number = 8.030000000000001
+            mark = "L*"
+        points [15]:
+            number = 8.32
+            mark = "L*"
+        points [16]:
+            number = 8.9
+            mark = "L-L%"
+        points [17]:
+            number = 9.504999999999999
+            mark = "!H*"
+        points [18]:
+            number = 9.905000000000001
+            mark = "L*"
+        points [19]:
+            number = 10.23
+            mark = "L-L%"
+        points [20]:
+            number = 11.645
+            mark = "H*"
+        points [21]:
+            number = 11.925
+            mark = "L*"
+        points [22]:
+            number = 12.07
+            mark = "L-L%"
+        points [23]:
+            number = 12.93
+            mark = "L-L%"
+    item [2]:
+        class = "TextTier"
+        name = "breaks"
+        xmin = 0 
+        xmax = 13.56
+        points: size = 22
+        points [1]:
+            number = 0.71
+            mark = "4"
+        points [2]:
+            number = 1.47
+            mark = "2"
+        points [3]:
+            number = 1.71
+            mark = "1"
+        points [4]:
+            number = 2.29
+            mark = "1"
+        points [5]:
+            number = 2.69
+            mark = "4"
+        points [6]:
+            number = 3.76
+            mark = "4"
+        points [7]:
+            number = 4.19
+            mark = "1"
+        points [8]:
+            number = 4.81
+            mark = "4"
+        points [9]:
+            number = 5.64
+            mark = "1"
+        points [10]:
+            number = 5.72
+            mark = "4"
+        points [11]:
+            number = 6.94
+            mark = "4"
+        points [12]:
+            number = 7.38
+            mark = "1"
+        points [13]:
+            number = 7.41
+            mark = "1"
+        points [14]:
+            number = 7.91
+            mark = "1"
+        points [15]:
+            number = 8.15
+            mark = "1"
+        points [16]:
+            number = 8.38
+            mark = "1"
+        points [17]:
+            number = 8.9
+            mark = "4"
+        points [18]:
+            number = 9.66
+            mark = "2"
+        points [19]:
+            number = 10.23
+            mark = "4"
+        points [20]:
+            number = 11.71
+            mark = "1"
+        points [21]:
+            number = 12.07
+            mark = "4"
+        points [22]:
+            number = 12.93
+            mark = "4"
