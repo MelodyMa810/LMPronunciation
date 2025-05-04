@@ -1,0 +1,38 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4.28 
+tiers? <exists> 
+size  = 2
+item []: 
+    item [1]:
+        class = "TextTier"
+        name = "tones"
+        xmin = 0 
+        xmax = 4.28
+        points: size = 3
+        points [1]:
+            number = 1.78
+            mark = "L-L%"
+        points [2]:
+            number = 2.05
+            mark = "L-L%"
+        points [3]:
+            number = 2.39
+            mark = "L-L%"
+    item [2]:
+        class = "TextTier"
+        name = "breaks"
+        xmin = 0 
+        xmax = 4.28
+        points: size = 3
+        points [1]:
+            number = 1.78
+            mark = "4"
+        points [2]:
+            number = 2.05
+            mark = "4"
+        points [3]:
+            number = 2.39
+            mark = "4"
