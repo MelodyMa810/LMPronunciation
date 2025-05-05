@@ -1,0 +1,89 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.097 
+tiers? <exists> 
+size  = 2
+item []: 
+    item [1]:
+        class = "TextTier"
+        name = "tones"
+        xmin = 0 
+        xmax = 7.097
+        points: size = 12
+        points [1]:
+            number = 1.055
+            mark = "L*"
+        points [2]:
+            number = 1.37
+            mark = "!H*"
+        points [3]:
+            number = 2.465
+            mark = "L*"
+        points [4]:
+            number = 2.925
+            mark = "H*+L"
+        points [5]:
+            number = 3.09
+            mark = "H-L%"
+        points [6]:
+            number = 3.68
+            mark = "L+H*"
+        points [7]:
+            number = 3.91
+            mark = "L*"
+        points [8]:
+            number = 4.02
+            mark = "L-L%"
+        points [9]:
+            number = 0
+            mark = "H*+L"
+        points [10]:
+            number = 5.119999999999999
+            mark = "L+H*"
+        points [11]:
+            number = 5.71
+            mark = "L*"
+        points [12]:
+            number = 5.95
+            mark = "L-L%"
+    item [2]:
+        class = "TextTier"
+        name = "breaks"
+        xmin = 0 
+        xmax = 7.097
+        points: size = 11
+        points [1]:
+            number = 0.83
+            mark = "1"
+        points [2]:
+            number = 1.13
+            mark = "1"
+        points [3]:
+            number = 1.54
+            mark = "1"
+        points [4]:
+            number = 2.28
+            mark = "1"
+        points [5]:
+            number = 2.55
+            mark = "1"
+        points [6]:
+            number = 3.09
+            mark = "4"
+        points [7]:
+            number = 3.82
+            mark = "1"
+        points [8]:
+            number = 4.02
+            mark = "4"
+        points [9]:
+            number = 5.06
+            mark = "1"
+        points [10]:
+            number = 5.5
+            mark = "1"
+        points [11]:
+            number = 5.95
+            mark = "4"
