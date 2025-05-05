@@ -1,0 +1,89 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 9.62 
+tiers? <exists> 
+size  = 2
+item []: 
+    item [1]:
+        class = "TextTier"
+        name = "tones"
+        xmin = 0 
+        xmax = 9.62
+        points: size = 11
+        points [1]:
+            number = 1.0
+            mark = "L-L%"
+        points [2]:
+            number = 2.09
+            mark = "L-L%"
+        points [3]:
+            number = 3.13
+            mark = "L-L%"
+        points [4]:
+            number = 3.6550000000000002
+            mark = "!H*"
+        points [5]:
+            number = 4.02
+            mark = "L-L%"
+        points [6]:
+            number = 4.9
+            mark = "L-L%"
+        points [7]:
+            number = 6.21
+            mark = "L-L%"
+        points [8]:
+            number = 7.2
+            mark = "LL-"
+        points [9]:
+            number = 7.94
+            mark = "H-L%"
+        points [10]:
+            number = 0
+            mark = "!H*"
+        points [11]:
+            number = 9.12
+            mark = "L-L%"
+    item [2]:
+        class = "TextTier"
+        name = "breaks"
+        xmin = 0 
+        xmax = 9.62
+        points: size = 12
+        points [1]:
+            number = 1.0
+            mark = "4"
+        points [2]:
+            number = 2.09
+            mark = "4"
+        points [3]:
+            number = 3.13
+            mark = "4"
+        points [4]:
+            number = 3.73
+            mark = "1"
+        points [5]:
+            number = 4.02
+            mark = "4"
+        points [6]:
+            number = 4.33
+            mark = "1"
+        points [7]:
+            number = 4.9
+            mark = "4"
+        points [8]:
+            number = 6.21
+            mark = "4"
+        points [9]:
+            number = 7.2
+            mark = "3"
+        points [10]:
+            number = 7.94
+            mark = "4"
+        points [11]:
+            number = 8.59
+            mark = "1"
+        points [12]:
+            number = 9.12
+            mark = "4"
